@@ -1,1 +1,12 @@
-
+  "BannerID": "ca-app-pub-7497468228437677/5779961707",
+  "InterstitialID": "ca-app-pub-7497468228437677/7765987482",
+  "RewardAds": "ca-app-pub-7497468228437677/5139824140",
+  "AppOpen": "ca-app-pub-7497468228437677/6452905813",
+  "BannerEnabled": true,
+  "InterstitialEnabled": true,
+  "RewardEnabled": true,
+  "AppOpenEnabled": false,
+  "InterstitialCooldownSeconds": 180,
+  "RewardCooldownSeconds": 0,
+  "AppOpenCooldownSeconds": 90
+}
